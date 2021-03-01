@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, Indian Institute of Technology, Kanpur, 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering, Indian Institute of Technology, Kanpur, August 2010
+* M.S. in Electrical Engineering, Stanford University, June 2013
+* Ph.D in Electrical Engineering, Stanford University, June 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017 : Postdoc  
+  * MIT 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2013-2015: Principal Scientist and Co-founder
+  * Kumu Networks
+
+{% comment %}
+
 Skills
 ======
 * Skill 1
@@ -35,6 +33,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+{% endcomment %}
 
 Publications
 ======

@@ -1,9 +1,9 @@
 ---
-title: "ECE 257B"
+title: "ECE 101"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "UC San Diego, Electrical and Computer Engineering, winter"
+venue: "UC San Diego, Electrical and Computer Engineering, spring"
 date: 2020-01-01
 location: "San Diego, US"
 ---

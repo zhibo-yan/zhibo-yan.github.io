@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " About me "
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. If you are a potential student, researcher or postdoc and interested in working with me or my group, drop me an email (dineshb at ucsd dot edu). 
 
-I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. I research, design and prototype systems that advances the theory and design of modern wireless communication systems, sensor networks, and data-center networks.
+I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. My group research, design and prototype systems that advances the theory and design of modern wireless communication systems, sensor networks, and data-center networks.
 
 A more detailed list of projects and on-going research can be found at [WCSNG publications](https://wcsng.ucsd.edu/publications).
 
