@@ -24,6 +24,9 @@ CV available here. List of publication at DBLP and Google Scholar. List of paten
 this is commented out
 {% endcomment %}
 
+Projects 
+----- 
+- 
 
 
 News 
@@ -35,9 +38,7 @@ Short Bio
 
 I have been at UC San Diego as a faculty since January 2018. My group has diverse focus from computer vision, deep learning to wireless communication, sensing and networking. We build from theory to practice technologies which have impact on robotics, autonomous systems and day-to-day life. 
 
-Previously, I worked as postdoctoral associate with NETMIT and NMS groups at MIT CSAIL, focusing on data-center networking and wireless sensing.
-
-I received my Ph.D. at Stanford University for my work on full-duplex radios, which were considered near impossible to build, basically enabling radios to transmit and receive simultaneously on the same frequency. From 2013 to 2015, I took a leave of absence from my Ph.D. to commercialize research on the practical full-duplex radio at Kumu Networks, which underwent successful field trials with tier 1 network providers worldwide – Deutsche Telekom and SK Telecom and is now being commercially deployed. 
+Previously, I worked as postdoctoral associate at MIT CSAIL, focusing on data-center networking and wireless sensing. I received my Ph.D. at Stanford University for my work on full-duplex radios, which were considered near impossible to build, basically enabling radios to transmit and receive simultaneously on the same frequency. From 2013 to 2015, I took a leave of absence from my Ph.D. to commercialize research on the practical full-duplex radio at Kumu Networks, which underwent successful field trials with tier 1 network providers worldwide – Deutsche Telekom and SK Telecom and is now being commercially deployed. 
 
 Before joining Stanford, I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology, Kanpur in 2010. I was awarded a gold medal at IIT Kanpur for graduating at the top of the class of 2010 in Electrical Engineering. 
 
@@ -48,9 +49,9 @@ Selected Awards & Honors
 
 
 - [Marconi Young Scholar Award](http://marconisociety.org/marconi-society-honors-dinesh-bharadia-with-paul-baran-young-scholar-award/): Marconi Society recognizes outstanding young scientists and engineers anywhere in the world. 
-	- [Video by Marconi Society](http://marconisociety.org/young-scholars/dinesh-bharadia/), [detailed Press Coverage by Anand Parthasarathy](./Marconi_link.pdf)
+	- [Video by Marconi Society](http://marconisociety.org/young-scholars/dinesh-bharadia/), [detailed Press Coverage by Anand Parthasarathy](Marconi_link.pdf)
 
--  [MIT TR35 Award](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/): World's [ Top 35 Innovators](https://www.technologyreview.com/lists/innovators-under-35/2016/) Under the Age of 35. Technology Review describes, ``[His radio could be a godsend for telecom companies and consumers.](./awards/TR35.pdf )''
+-  [MIT TR35 Award](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/): World's [ Top 35 Innovators](https://www.technologyreview.com/lists/innovators-under-35/2016/) Under the Age of 35. Technology Review describes, ``[His radio could be a godsend for telecom companies and consumers.](TR35.pdf )''
 	- [MIT TR35 Talk](http://events.technologyreview.com/video/watch/dinesh-bharadia-mit-csail-innovator/), [Press release](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/)
 
 
@@ -77,7 +78,7 @@ this is commented out...
 Selected Press and Media Coverage 
 -----
 
-- Marconi Young Scholar Award was covered by numerous news outlets [detailed by Anand Parthasarathy](./Marconi_link.pdf), [NDTV](http://www.ndtv.com/indians-abroad/indian-born-massachusetts-institute-of-technology-researcher-dinesh-bharadia-wins-us-award-1458666), [Times of India](http://timesofindia.indiatimes.com/nri/nri-achievers/Indian-born-MIT-researcher-bags-award-for-his-contribution-to-radio-waves/articleshow/54331113.cms), [Stanford News](https://ee.stanford.edu/news/award-student/10-28-2016/dinesh-bharadia-phd-’16-receives-marconi-young-scholar-award), [so on](https://www.google.com/search?&q=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward&oq=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward)
+- Marconi Young Scholar Award was covered by numerous news outlets [detailed by Anand Parthasarathy](Marconi_link.pdf), [NDTV](http://www.ndtv.com/indians-abroad/indian-born-massachusetts-institute-of-technology-researcher-dinesh-bharadia-wins-us-award-1458666), [Times of India](http://timesofindia.indiatimes.com/nri/nri-achievers/Indian-born-MIT-researcher-bags-award-for-his-contribution-to-radio-waves/articleshow/54331113.cms), [Stanford News](https://ee.stanford.edu/news/award-student/10-28-2016/dinesh-bharadia-phd-’16-receives-marconi-young-scholar-award), [so on](https://www.google.com/search?&q=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward&oq=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward)
 
 - MIT TR35 Award was covered by [Press release](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/), [CSAIL News](http://www.csail.mit.edu/researcher_named_to_tech_reviews_2016_under_35_list%20), [MIT TR35 Talk](http://events.technologyreview.com/video/watch/dinesh-bharadia-mit-csail-innovator/), [India New England](http://indianewengland.com/2016/09/four-indian-americans-one-indian-35-innovators-35-list-mit-technology-review/) , [Skill Outlook](http://skilloutlook.com/2016/09/16/dinesh-bharadia-ex-iitian-features-among-mits-global-35-innovators-35/),[India Eagle](http://www.indianeagle.com/travelbeats/list-of-innovators-under-35-on-mit-technology-review-2016/), [so on](https://www.google.com/search?&q=news:+dinesh+bharadia+35+under+35)
 
@@ -114,6 +115,8 @@ At Kumu Networks, I led the technology (both architecture and algorithm design) 
 
 Due to its proven commercial viability and promise, full duplex is now actively being designed into next-generation wireless standards. Both 5G cellular and next-generation WiFi standards are incorporating full duplex or self-interference cancellation technology in various forms.
 
+{% comment %}
+
 
 Selected Projects
 ----- 
@@ -126,7 +129,6 @@ Selected Projects
 
 - [./publications.pdf Publications and Patents in PDF form] 
 
-{% comment %}
 
 #- [./papers/sensys16_back_comm.pdf HitchHike: Practical Backscatter using Commodity WiFi] \n
 #   Pengyu Zhang (Co-primary), Dinesh Bharadia (Co-primary), Kiran Joshi, Sachin Katti \n

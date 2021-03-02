@@ -5,7 +5,7 @@ permalink: /publication/2013-01-01-Full-duplex-backscatter
 excerpt: '30 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=1719789891687424873'
 date: 2013-01-01
 venue: 'Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks'
-citation: ' D Bharadia,  KR Joshi,  S Katti, &quot;Full duplex backscatter.&quot; Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks, 2013.'
+citation: ' D Bharadia,  KR Joshi,  S Katti'
 ---
 30 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=1719789891687424873
 
