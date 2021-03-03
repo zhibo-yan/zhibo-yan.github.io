@@ -26,8 +26,19 @@ this is commented out
 
 Projects 
 ----- 
-- 
 
+- Wireless Localization:
+- Backscatter Communication:  
+- Wireless Sensing: 
+- Cloud and Edge Computing: 
+- mmWave 5G NR: 
+- Smart Surfaces: 
+- Autonomous Sensing and Perception: 
+- Robotics: 
+- Spectrum Sensing: 
+- Wireless Power Transfer: 
+- Full Duplex radios:  
+- AR and VR:
 
 News 
 ----- 

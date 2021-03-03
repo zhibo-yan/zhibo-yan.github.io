@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-01-01-Cutting-the-cord-in-virtual-reality
 excerpt: '60 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=4880255362489491729'
 date: 2016-01-01
-venue: 'ACM Hotnets '
+venue: 'ACM Hotnets'
 citation: ' O Abari,  D Bharadia,  A Duffield and D Katabi'
 ---
 60 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=4880255362489491729
