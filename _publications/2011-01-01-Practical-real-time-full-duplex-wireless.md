@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2011-01-01-Practical-real-time-full-duplex-wireless
 excerpt: '1583 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=6988250277139539361'
 date: 2011-01-01
-venue: 'Mobicom'
+venue: 'ACM Mobicom'
 citation: ' M Jain,  JI Choi,  T Kim,  D Bharadia,  S Seth,  K Srinivasan,  P Levis,  S Katti'
 ---
 1583 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=6988250277139539361

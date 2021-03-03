@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2016-01-01-Numfabric-Fast-and-flexible-bandwidth-allocation-in-datacenters
 excerpt: '72 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=12638641209357825109'
 date: 2016-01-01
-venue: 'Proceedings of the 2016 ACM SIGCOMM Conference'
-citation: ' K Nagaraj,  D Bharadia,  H Mao,  S Chinchali,  M Alizadeh,  S Katti, &quot;Numfabric: Fast and flexible bandwidth allocation in datacenters.&quot; Proceedings of the 2016 ACM SIGCOMM Conference, 2016.'
+venue: ' ACM SIGCOMM '
+citation: ' K Nagaraj,  D Bharadia,  H Mao,  S Chinchali,  M Alizadeh and  S Katti'
 ---
 72 cites: https://scholar.google.com/scholar?oi=bibs\&amp;hl=en\&amp;cites=12638641209357825109
 
