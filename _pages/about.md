@@ -27,22 +27,43 @@ this is commented out
 Projects 
 ----- 
 
-- Wireless Localization:
-- Backscatter Communication:  
-- Wireless Sensing: 
-- Cloud and Edge Computing: 
-- mmWave 5G NR: 
-- Smart Surfaces: 
-- Autonomous Sensing and Perception: 
-- Robotics: 
-- Spectrum Sensing: 
-- Wireless Power Transfer: 
-- Full Duplex radios:  
-- AR and VR:
+- Wireless Localization: [IPSN 2015] <a href='https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi'>[Wideo-NSDI'15]</a> <a href='http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf'> [Spotfi-Sigcomm'15]</a> <a href='https://wcsng.ucsd.edu/bloc/'> [BLoc-CoNEXT’18]</a> <a href='https://wcsng.ucsd.edu/locap/'>[LocAP-NSDI'20]</a> <a href='https://wcsng.ucsd.edu/dloc/'>[DLoc-Mobicom'20]</a> [ICCASP'21]
+- Backscatter Communication:  <a href='https://dl.acm.org/doi/10.1145/2785956.2787490'>[BackFi-Sigcomm'15]</a> <a href='https://dl.acm.org/doi/10.1145/2994551.2994565'>[HitchHike-Sensys'16]</a> <a href='https://dl.acm.org/doi/10.1145/3143361.3143374'>[FreeRider-CoNext'17]</a>    <a href='https://wcsng.ucsd.edu/ubiquitousIoT/'>[ISSCC'20]</a>  [JSSC'20] [ISSCC'21] [SyncScatter-NSDI'21] [RForce-NSDI'21]
+- Wireless Sensing: <a href = 'http://sensys.acm.org/2020/program/'>[DroneScale-Sensys'20]</a>
+- Cloud and Edge Computing: [Numfabric-Sigcomm'16] [ISER'20]
+- mmWave 5G NR: <a href='https://wcsng.ucsd.edu/mmobile/'>[mMobile-mmNets'20]</a>
+- Smart Surfaces: <a href='https://wcsng.ucsd.edu/scattermimo/'>[ScatterMIMO - Mobicom'20]</a>
+- Autonomous Sensing and Perception: <a href='https://wcsng.ucsd.edu/pointillism/'>[Pointilism-Sensys'20]</a>
+- Robotics and Machine Learning: <a href='https://arxiv.org/pdf/2007.14511.pdf'>[S3Net-ECCV'20]</a> <a href='https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html'>[SigNet-CVPR'19]</a>
+- Spectrum Sensing: <a href='https://wcsng.ucsd.edu/sparsdr/'>[SparSDR-Mobisys'19]</a> <a href='https://github.com/ucsdsysnet/SweepSense/tree/master'>[SweepSense-NSDI'19]</a> [GetMobile'20]
+- Wireless Power Transfer: <a href='https://dl.acm.org/doi/10.1145/3307334.3326077'>[Capttery-Mobisys'19]</a>
+- Full Duplex radios:  <a href='https://dl.acm.org/doi/10.1145/2486001.2486033'>[Sigcomm'13]</a> [NSDI'14][Sigcomm'14][Sigcomm'15] [Sigcomm'16]
+- AR and VR: [HotNets'16] <a href='https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari'>[MoVR-NSDI'17] </a>
 
 News 
 ----- 
-- 
+
+- Dec 2020: Two papers on backscatter communication and backscatter Force semsing got accepted at NSDI'21. Congrats Manideep and Agrim!
+
+- Sept 2020: Another backscatter paper in circuits conference ISSCC'21. Congrats Manideep and team!
+
+- Sept 2020: Two papers got accepted at Sensys'20. Congrats Kshitiz and Yeswanth!
+
+- Sept 2020: IEEE Journal of Solid State Circuits (JSSC) accepted: A Low-Power Backscatter Modulation System Communicating Across Tens of Meters with Standards-Compliant Wi-Fi Transceivers. Congrats Mani, Chi and team!
+
+- July 2020: mmNets workshop (Mobicom'20) paper accepted <a href="https://wcsng.ucsd.edu/mmobile/">mMobile- Building a mmWave testbed to evaluate and address mobility effects. </a> Congrats Ish and team!
+
+- June 2020: ECCV'20 paper got accepted on <a href="https://arxiv.org/pdf/2007.14511.pdf">S3Net- Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic Data.</a> Congrats Inderjot and team!
+
+- June 2020: WCSNG is opensourcing largest available, real-world indoor Location labelled WiFi CSI dataset, <a href="https://wcsng.ucsd.edu/wild/">WILD</a> for non-profit research purposes.
+
+- June 2020: <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, our Covid-19 app is in news  <a href="bit.ly/2OxZ7P6">here</a> .
+
+- June 2020: ScatterMIMO- our smart reflecting surface that can double the WiFi throughput is in <a href="https://bit.ly/2R3r3vy">UCSD news</a> and <a href="https://www.hackster.io/news/scattermimo-smart-surface-runs-for-a-year-on-a-button-cell-doubles-wi-fi-speeds-8ea4f374cc59">Hackster.io</a>
+
+-  Apr 2020:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. In news at <a href="https://techxplore.com/news/2020-07-bluble-covid-accurate-contact.html">Techxplore</a>.
+
+ <a href='https://wcsng.ucsd.edu/allnews.html'>... See all News </a>
 
 Short Bio
 ----- 
