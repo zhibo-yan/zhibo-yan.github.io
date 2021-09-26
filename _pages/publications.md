@@ -15,8 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% include base_path %}
-
-{% for post in site.shortpapers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<sup>*</sup> Equal authorship
