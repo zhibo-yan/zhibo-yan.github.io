@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. If you are a potential student, researcher or postdoc and interested in working with me or my group, drop me an email (dineshb at ucsd dot edu). 
+I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. If you are a potential student, researcher or postdoc and interested in working with me or [my group](https://wcsng.ucsd.edu/publications), drop me an email (dineshb at ucsd dot edu). 
 
 I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. My group research, design and prototype systems that advances the theory and design of modern wireless communication systems, sensor networks, and data-center networks.
 
@@ -23,8 +23,48 @@ CV available here. List of publication at DBLP and Google Scholar. List of paten
 this is commented out
 {% endcomment %}
 
+Selected Awards & Honors
+-----
+
+- [Forbes 30 under 30 Science Category World-wide](https://www.forbes.com/profile/dinesh-bharadia/?sh=126aa061c41f): Forbes recognizes 30 young scientists and engineers anywhere in the world under the age of 30, who have made outstanding contributions to science and technology. 
+- [Marconi Young Scholar Award](https://www.marconisociety.org/press/marconi-society-honors-dinesh-bharadia-with-paul-baran-young-scholar-award/): Marconi Society recognizes outstanding young scientists and engineers anywhere in the world. 
+  - [Video by Marconi Society](https://vimeo.com/192170090), [detailed Press Coverage by Anand Parthasarathy](/files/Marconi_link.pdf)
+- [MIT TR35 Award](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/): World's [ Top 35 Innovators](https://www.technologyreview.com/lists/innovators-under-35/2016/) Under the Age of 35. Technology Review describes, ``[His radio could be a godsend for telecom companies and consumers.](/files/TR35.pdf )''
+  - [MIT TR35 Talk](http://events.technologyreview.com/video/watch/dinesh-bharadia-mit-csail-innovator/), [Press release](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/)
+- [Michael Dukakis Leadership Award](http://bostonglobalforum.org/mdlf/2016/09/19/dinesh-bharadia/): Recognizes outstanding young leaders in CyberSecurity.
+- Awarded Sarah and Thomas Kailath Stanford Graduate Fellowship to pursue MS-PhD in the field of Electrical Engineering
+- Awarded Best Student in Electrical Engineering at IIT Kanpur by Prime Minister of India
+{% comment %}
+this is commented out... 
+
+- Secured Highest CGPA within Electrical Engineering students and Second highest CGPA across all disciplines at IIT Kanpur, 2010 
+
+#- Awarded Tokyo-IIT Scholarship by University of Tokyo 
+
+#- Awarded Academic Excellence consecutively for the year 2006-07, 2007-08, 2008-09, at IIT Kanpur} 
+
+#- Awarded Biswanath Jha Memorial Scholarship, IIT Kanpur  
+
+#- Awarded K. N. Saluja Scholarship, IIT Kanpur 
+{% endcomment %}
+News 
+-------
+- Dec 2020: Two papers on backscatter communication and backscatter Force semsing got accepted at NSDI'21. Congrats Manideep and Agrim!
+- Sept 2020: Another backscatter paper in circuits conference ISSCC'21. Congrats Manideep and team!
+- Sept 2020: Two papers got accepted at Sensys'20. Congrats Kshitiz and Yeswanth!
+- Sept 2020: IEEE Journal of Solid State Circuits (JSSC) accepted: A Low-Power Backscatter Modulation System Communicating Across Tens of Meters with Standards-Compliant Wi-Fi Transceivers. Congrats Mani, Chi and team!
+- July 2020: mmNets workshop (Mobicom'20) paper accepted <a href="https://wcsng.ucsd.edu/mmobile/">mMobile- Building a mmWave testbed to evaluate and address mobility effects. </a> Congrats Ish and team!
+- June 2020: ECCV'20 paper got accepted on <a href="https://arxiv.org/pdf/2007.14511.pdf">S3Net- Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic Data.</a> Congrats Inderjot and team!
+- June 2020: WCSNG is opensourcing largest available, real-world indoor Location labelled WiFi CSI dataset, <a href="https://wcsng.ucsd.edu/wild/">WILD</a> for non-profit research purposes.
+- June 2020: <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, our Covid-19 app is in news  <a href="bit.ly/2OxZ7P6">here</a>.
+- June 2020: ScatterMIMO- our smart reflecting surface that can double the WiFi throughput is in <a href="https://bit.ly/2R3r3vy">UCSD news</a> and <a href="https://www.hackster.io/news/scattermimo-smart-surface-runs-for-a-year-on-a-button-cell-doubles-wi-fi-speeds-8ea4f374cc59">Hackster.io</a>
+-  Apr 2020:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. In news at <a href="https://techxplore.com/news/2020-07-bluble-covid-accurate-contact.html">Techxplore</a>.
+<a href='https://wcsng.ucsd.edu/allnews.html'>... See all News </a>
+
 Projects 
 ----- 
+
+Our goal for research 
 
 - Wireless Localization: [IPSN 2015] <a href='https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi'>[Wideo-NSDI'15]</a> <a href='http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf'> [Spotfi-Sigcomm'15]</a> <a href='https://wcsng.ucsd.edu/bloc/'> [BLoc-CoNEXT’18]</a> <a href='https://wcsng.ucsd.edu/locap/'>[LocAP-NSDI'20]</a> <a href='https://wcsng.ucsd.edu/dloc/'>[DLoc-Mobicom'20]</a> [ICCASP'21]
 - Backscatter Communication:  <a href='https://dl.acm.org/doi/10.1145/2785956.2787490'>[BackFi-Sigcomm'15]</a> <a href='https://dl.acm.org/doi/10.1145/2994551.2994565'>[HitchHike-Sensys'16]</a> <a href='https://dl.acm.org/doi/10.1145/3143361.3143374'>[FreeRider-CoNext'17]</a>    <a href='https://wcsng.ucsd.edu/ubiquitousIoT/'>[ISSCC'20]</a>  [JSSC'20] [ISSCC'21] [SyncScatter-NSDI'21] [RForce-NSDI'21]
@@ -39,80 +79,10 @@ Projects
 - Full Duplex radios:  <a href='https://dl.acm.org/doi/10.1145/2486001.2486033'>[Sigcomm'13]</a> [NSDI'14][Sigcomm'14][Sigcomm'15] [Sigcomm'16]
 - AR and VR: [HotNets'16] <a href='https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari'>[MoVR-NSDI'17] </a>
 
-News 
------ 
-
-- Dec 2020: Two papers on backscatter communication and backscatter Force semsing got accepted at NSDI'21. Congrats Manideep and Agrim!
-
-- Sept 2020: Another backscatter paper in circuits conference ISSCC'21. Congrats Manideep and team!
-
-- Sept 2020: Two papers got accepted at Sensys'20. Congrats Kshitiz and Yeswanth!
-
-- Sept 2020: IEEE Journal of Solid State Circuits (JSSC) accepted: A Low-Power Backscatter Modulation System Communicating Across Tens of Meters with Standards-Compliant Wi-Fi Transceivers. Congrats Mani, Chi and team!
-
-- July 2020: mmNets workshop (Mobicom'20) paper accepted <a href="https://wcsng.ucsd.edu/mmobile/">mMobile- Building a mmWave testbed to evaluate and address mobility effects. </a> Congrats Ish and team!
-
-- June 2020: ECCV'20 paper got accepted on <a href="https://arxiv.org/pdf/2007.14511.pdf">S3Net- Semantic-Aware Self-Supervised Depth Estimation with Monocular Videos and Synthetic Data.</a> Congrats Inderjot and team!
-
-- June 2020: WCSNG is opensourcing largest available, real-world indoor Location labelled WiFi CSI dataset, <a href="https://wcsng.ucsd.edu/wild/">WILD</a> for non-profit research purposes.
-
-- June 2020: <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, our Covid-19 app is in news  <a href="bit.ly/2OxZ7P6">here</a> .
-
-- June 2020: ScatterMIMO- our smart reflecting surface that can double the WiFi throughput is in <a href="https://bit.ly/2R3r3vy">UCSD news</a> and <a href="https://www.hackster.io/news/scattermimo-smart-surface-runs-for-a-year-on-a-button-cell-doubles-wi-fi-speeds-8ea4f374cc59">Hackster.io</a>
-
--  Apr 2020:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. In news at <a href="https://techxplore.com/news/2020-07-bluble-covid-accurate-contact.html">Techxplore</a>.
-
- <a href='https://wcsng.ucsd.edu/allnews.html'>... See all News </a>
-
-Short Bio
------ 
-
-I have been at UC San Diego as a faculty since January 2018. My group has diverse focus from computer vision, deep learning to wireless communication, sensing and networking. We build from theory to practice technologies which have impact on robotics, autonomous systems and day-to-day life. 
-
-Previously, I worked as postdoctoral associate at MIT CSAIL, focusing on data-center networking and wireless sensing. I received my Ph.D. at Stanford University for my work on full-duplex radios, which were considered near impossible to build, basically enabling radios to transmit and receive simultaneously on the same frequency. From 2013 to 2015, I took a leave of absence from my Ph.D. to commercialize research on the practical full-duplex radio at Kumu Networks, which underwent successful field trials with tier 1 network providers worldwide – Deutsche Telekom and SK Telecom and is now being commercially deployed. 
-
-Before joining Stanford, I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology, Kanpur in 2010. I was awarded a gold medal at IIT Kanpur for graduating at the top of the class of 2010 in Electrical Engineering. 
-
-Selected Awards & Honors
------
-
-- [Forbes 30 under 30 Science Category World-wide](http://marconisociety.org/marconi-society-honors-dinesh-bharadia-with-paul-baran-young-scholar-award/): Forbes recognizes 30 young scientists and engineers anywhere in the world under the age of 30, who have made outstanding contributions to science and technology. 
-
-
-- [Marconi Young Scholar Award](http://marconisociety.org/marconi-society-honors-dinesh-bharadia-with-paul-baran-young-scholar-award/): Marconi Society recognizes outstanding young scientists and engineers anywhere in the world. 
-	- [Video by Marconi Society](http://marconisociety.org/young-scholars/dinesh-bharadia/), [detailed Press Coverage by Anand Parthasarathy](Marconi_link.pdf)
-
--  [MIT TR35 Award](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/): World's [ Top 35 Innovators](https://www.technologyreview.com/lists/innovators-under-35/2016/) Under the Age of 35. Technology Review describes, ``[His radio could be a godsend for telecom companies and consumers.](TR35.pdf )''
-	- [MIT TR35 Talk](http://events.technologyreview.com/video/watch/dinesh-bharadia-mit-csail-innovator/), [Press release](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/)
-
-
-- [Michael Dukakis Leadership Award](http://bostonglobalforum.org/mdlf/2016/09/19/dinesh-bharadia/): It recognizes outstanding young leaders in CyberSecurity.  
-
-- Awarded Sarah and Thomas Kailath Stanford Graduate Fellowship to pursue MS-PhD in the field of Electrical Engineering 
-
-- Awarded Best Student in Electrical Engineering at IIT Kanpur by Prime Minister of India
-
-{% comment %}
-this is commented out... 
-
-- Secured Highest CGPA within Electrical Engineering students and Second highest CGPA across all disciplines at IIT Kanpur, 2010 
-
-#- Awarded Tokyo-IIT Scholarship by University of Tokyo 
-
-#- Awarded Academic Excellence consecutively for the year 2006-07, 2007-08, 2008-09, at IIT Kanpur} 
-
-#- Awarded Biswanath Jha Memorial Scholarship, IIT Kanpur  
-
-#- Awarded K. N. Saluja Scholarship, IIT Kanpur 
-{% endcomment %}
-
 Selected Press and Media Coverage 
 -----
-
 - Marconi Young Scholar Award was covered by numerous news outlets [detailed by Anand Parthasarathy](Marconi_link.pdf), [NDTV](http://www.ndtv.com/indians-abroad/indian-born-massachusetts-institute-of-technology-researcher-dinesh-bharadia-wins-us-award-1458666), [Times of India](http://timesofindia.indiatimes.com/nri/nri-achievers/Indian-born-MIT-researcher-bags-award-for-his-contribution-to-radio-waves/articleshow/54331113.cms), [Stanford News](https://ee.stanford.edu/news/award-student/10-28-2016/dinesh-bharadia-phd-’16-receives-marconi-young-scholar-award), [so on](https://www.google.com/search?&q=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward&oq=news%3A%2Bdinesh%2Bbharadia%2Bmarconi%2Baward)
-
 - MIT TR35 Award was covered by [Press release](https://www.technologyreview.com/lists/innovators-under-35/2016/inventor/dinesh-bharadia/), [CSAIL News](http://www.csail.mit.edu/researcher_named_to_tech_reviews_2016_under_35_list%20), [MIT TR35 Talk](http://events.technologyreview.com/video/watch/dinesh-bharadia-mit-csail-innovator/), [India New England](http://indianewengland.com/2016/09/four-indian-americans-one-indian-35-innovators-35-list-mit-technology-review/) , [Skill Outlook](http://skilloutlook.com/2016/09/16/dinesh-bharadia-ex-iitian-features-among-mits-global-35-innovators-35/),[India Eagle](http://www.indianeagle.com/travelbeats/list-of-innovators-under-35-on-mit-technology-review-2016/), [so on](https://www.google.com/search?&q=news:+dinesh+bharadia+35+under+35)
-
 - HitchHike (IoT Connectivity) was covered by [Stanford News](http://news.stanford.edu/2016/11/16/miniature-wifi-device-developed-supplies-missing-link-internet-things/ ), 
 [ACM TechNews](http://cacm.acm.org/news/210000-miniature-wi-fi-device-supplies-missing-link-for-the-internet-of-things/fulltext),
 [ECN](https://www.ecnmag.com/news/2016/11/miniature-wifi-device-developed-stanford-engineers-supplies-missing-link-internet-things),
@@ -121,19 +91,24 @@ Selected Press and Media Coverage
  [North Dallas Gazette](http://northdallasgazette.com/2016/11/19/postage-size-wifi-might-make-internet-things-reality),
 [New Electronics](http://www.newelectronics.co.uk/electronics-news/low-power-wifi-device-to-translate-radio-waves/148386/),
 [RFID Journal](http://www.rfidjournal.com/articles/view?15280), 
-[ NFC World ](http://www.nfcworld.com/2016/11/24/348685/us-researchers-claim-discovery-missing-link-internet-things/)...
-
+[ NFC World ](http://www.nfcworld.com/2016/11/24/348685/us-researchers-claim-discovery-missing-link-internet-things/)
 - Full-duplex radio was covered by [Wall Street Journal](http://www.wsj.com/articles/SB10001424052702304441404579121681779205144), 
 [CNBC](http://www.cnbc.com/2014/06/16/disruptors-in-2014-kumu-networks.html), 
 [MIT Tech. Review](https://www.technologyreview.com/s/541856/trick-that-doubles-wireless-data-capacity-stands-up-in-cell-network-tests/), 
 [TechCrunch](http://techcrunch.com/2016/01/20/kumu-networks-nabs-25m-from-cisco-and-big-carriers-for-breakthrough-wireless-tech/), 
-[Fierce Wireless](http://www.fiercewireless.com/story/report-verizon-helps-invest-25m-kumu-networks-5g-network-tech/2016-01-20)...
-
+[Fierce Wireless](http://www.fiercewireless.com/story/report-verizon-helps-invest-25m-kumu-networks-5g-network-tech/2016-01-20)
 - Wireless Virtual Reality was covered by [ MIT news](http://news.mit.edu/2016/enabling-wireless-virtual-reality-1114), 
 [WIRED](https://www.wired.com/2016/11/mit-figured-way-make-vr-go-wireless/), [ Firstpost ](http://tech.firstpost.com/news-analysis/mit-develops-technology-for-wireless-virtual-reality-headsets-350217.html), [TechCrunch](https://techcrunch.com/2016/11/14/mits-new-movr-system-makes-wireless-vr-possible-with-any-headset/), [circuit breaker](http://www.theverge.com/circuitbreaker/2016/11/28/13763912/mit-radio-transmission-millimeter-wave-wireless-vr), [University Herald](http://www.universityherald.com/articles/50156/20161117/wireless-virtual-reality-headsets-by-mit-opening-vr-applications-beyond-gaming-video.htm),
-[Digital Trends](http://www.digitaltrends.com/virtual-reality/mit-movr-wireless/)...
-
+[Digital Trends](http://www.digitaltrends.com/virtual-reality/mit-movr-wireless/)
 - SpotFi: Indoor Localization was covered by [MIT Tech. Review](https://www.technologyreview.com/s/542561/wi-fi-trick-gives-devices-super-accurate-indoor-location-fixes/)
+
+Short Bio
+----- 
+I have been at UC San Diego as a faculty since January 2018. My group has diverse focus from computer vision, deep learning to wireless communication, sensing and networking. We build from theory to practice technologies which have impact on robotics, autonomous systems and day-to-day life. 
+
+Previously, I worked as postdoctoral associate at MIT CSAIL, focusing on data-center networking and wireless sensing. I received my Ph.D. at Stanford University for my work on full-duplex radios, which were considered near impossible to build, basically enabling radios to transmit and receive simultaneously on the same frequency. From 2013 to 2015, I took a leave of absence from my Ph.D. to commercialize research on the practical full-duplex radio at Kumu Networks, which underwent successful field trials with tier 1 network providers worldwide – Deutsche Telekom and SK Telecom and is now being commercially deployed. 
+
+Before joining Stanford, I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology, Kanpur in 2010. I was awarded a gold medal at IIT Kanpur for graduating at the top of the class of 2010 in Electrical Engineering. 
 
 
 Broader Industry Impact 
