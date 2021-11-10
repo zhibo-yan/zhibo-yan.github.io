@@ -12,8 +12,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% assign d = page.date | date: "%-B" %}
-  {{ d }}
   {% include archive-single.html %}
 {% endfor %}
 
