@@ -7,5 +7,5 @@ date: 2015-08-01
 venue: 'ACM SIGCOMM 2015'
 link: 'https://doi.org/10.1145/2486001'
 paperurl: '/files/papers/SpotFi.pdf'
-citation: ' M Kotaru,  K Joshi,  D Bharadia,  S Katti, '
+citation: ' M Kotaru,  K Joshi,  D Bharadia,  S Katti'
 ---

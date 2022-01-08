@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +7,53 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. If you are a potential student, researcher or postdoc and interested in working with me or [my group](https://wcsng.ucsd.edu/publications), drop me an email (dineshb at ucsd dot edu). 
+I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. 
 
-I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. My group research, design and prototype systems that advances the theory and design of modern wireless communication systems, sensor networks, and data-center networks.
+My research vision is to design and prototype performant systems for sensing, computing, communicating and securing the information in our connected world. Throughout my career, my research has aimed to solve the fundamental and near-impossible problems, which has often lead to new areas of research and commercialization. My research group continues to work on same philosophy of solving fundamental problems, impacting areas of next generation communication, robotics, autonomous systems to every-day life [WCSNG](https://wcsng.ucsd.edu). 
+
+Apply to WCSNG Group 
+-----
+
+My group is highly inter-disciplinary spanning electrical engineers, data scientists, computer scientists and mechanical engineers and works at the intersection of signal processing, circuits, computer vision, machine learning and aritifical intelligence. We develop theory and algorithms with special focus on implementation and protyping of solutions in our impact areas. Our current impact areas include: wireless localization, sensing for autonomous driving, sensing for healthcare, spectrum sensing for next-generation networks, and wireless systems for VR/AR applications and created various open source datasets and tools that enables reproducible reserach and eases barrier to entry to the reserachers in communication and sensing. 
+
+If you are a potential student, researcher or postdoc and interested in working with me or [my group](https://wcsng.ucsd.edu/publications), drop me an email (`dineshb at ucsd dot edu`) and/or reach out to the PhD students or postdocs. 
+
+Projects 
+----- 
+
+
+- Sensing using wireless, sound and cameras for Robotics, IoT and many-more applications
+  + [Indoor Localization](https://wcsng.ucsd.edu/localization.html): Developing localization algorithms for user devices, robots and even smart sound devices. Specific works as [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [Passive Human motion sensing using WiFi](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi), [SSLIDE -- Deep Learning based Localization of Sound devices](./files/papers/sslide.pdf), [Spotfi -- Localization with COTS WiFi AP](./files/papers/SpotFi.pdf).
+  + Low-power and Low Latency Localization -- Next generation Localization would enable safety for Industrial IoT 4.0 with Smart Manufacturing, Warehouse and Private 5G. Some of work along this dimension: [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [ULoc -- Low Latency and Low power localization protocol for UWB](https://wcsng.ucsd.edu/uloc)
+  + Deployable Wireless Localization: Wireless Localization, specifically WiFi/BLE leveraging existing infrastrcture has been studied for two decades without any deployments. We have developed robots that enable encombined mapping and localization systems enabling easy to deploy systems. Some publications [LocAP-NSDI'20](https://wcsng.ucsd.edu/locap/), [DLoc-Mobicom'20](https://wcsng.ucsd.edu/dloc), [Spotfi-Sigcomm'15](http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf) and [BLoc-CoNEXT’18](https://wcsng.ucsd.edu/bloc/). 
+  + Securing our physical spaces: With ever evolving mini-drones and delivery drones, it is eminent to learn of devices in our envrionment. Some work on this axis has been outdoor sensing of drones and payload: [Wireless Sensing of Drones and payload](./files/papers/sensys20-)
+
+- Communication and power delivery for next-generation devices 
+  + [Ultra-Low power WiFi communication for IoTs](https://wcsng.ucsd.edu/ubiquitousIoT/): Enabling IoT devices to communicate with existing WiFi/BLE infrastrcture at 1000x lower power. [BackFi-Sigcomm'15](https://dl.acm.org/doi/10.1145/2785956.2787490), [HitchHike-Sensys'16](https://dl.acm.org/doi/10.1145/2994551.2994565), [FreeRider-CoNext'17](https://dl.acm.org/doi/10.1145/3143361.3143374),[ISSCC'20], [JSSC'20], [ISSCC'21] and [SyncScatter-NSDI'21] [ISSCC'22]  
+  + xG mmwave and beyond:
+  + Smart Surfaces: [ScatterMIMO - Mobicom'20](https://wcsng.ucsd.edu/scattermimo/)
+  + Wireless Power Transfer: [Capttery-Mobisys'19](https://dl.acm.org/doi/10.1145/3307334.3326077)
+
+- Extending the Sensing abilities of Wireless: 
+  + Spectrum Sensing: [SparSDR-Mobisys'19](https://wcsng.ucsd.edu/sparsdr/), [SweepSense-NSDI'19](https://github.com/ucsdsysnet/SweepSense/tree/master) and [GetMobile'20]
+  + 
+
+- Autonomous Sensing and Perception: 
+  + Perception in bad-weather: Radar based <a href='https://wcsng.ucsd.edu/pointillism/'>[Pointilism-Sensys'20]</a>
+  + Enabling Cameras to perceive the depth: 
+
+- Robotics and Machine Learning: 
+  + [S3Net-ECCV'20](https://arxiv.org/pdf/2007.14511.pdf), [SigNet-CVPR'19](https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html) 
+
+- Cloud and Edge Computing: 
+  + [Numfabric-Sigcomm'16] 
+  + [ISER'20]
+ 
+
+- Full Duplex radios: [Sigcomm'13](https://dl.acm.org/doi/10.1145/2486001.2486033), [NSDI'14](), [Sigcomm'14](), [Sigcomm'15](), [Sigcomm'16]()
+- AR and VR: [HotNets'16](), [MoVR-NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari)
 
 A more detailed list of projects and on-going research can be found at [WCSNG publications](https://wcsng.ucsd.edu/publications).
-
-
-{% comment %}
-CV available here. List of publication at DBLP and Google Scholar. List of patents provided by Google search and patents provided by justia
-
-# This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-this is commented out
-{% endcomment %}
 
 Selected Awards & Honors
 -----
@@ -47,6 +79,7 @@ this is commented out...
 
 #- Awarded K. N. Saluja Scholarship, IIT Kanpur 
 {% endcomment %}
+
 News 
 -------
 - Dec 2020: Two papers on backscatter communication and backscatter Force semsing got accepted at NSDI'21. Congrats Manideep and Agrim!
@@ -61,23 +94,6 @@ News
 -  Apr 2020:  WCSNG developed <a href="https://wcsng.ucsd.edu/bluble/">BluBLE</a>, a smartphone app that provides personal risk indicator with Covid-19. It monitors the surrounding using Bluetooth signal while preserving privacy. In news at <a href="https://techxplore.com/news/2020-07-bluble-covid-accurate-contact.html">Techxplore</a>.
 <a href='https://wcsng.ucsd.edu/allnews.html'>... See all News </a>
 
-Projects 
------ 
-
-Our goal for research 
-
-- Wireless Localization: [IPSN 2015] <a href='https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi'>[Wideo-NSDI'15]</a> <a href='http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf'> [Spotfi-Sigcomm'15]</a> <a href='https://wcsng.ucsd.edu/bloc/'> [BLoc-CoNEXT’18]</a> <a href='https://wcsng.ucsd.edu/locap/'>[LocAP-NSDI'20]</a> <a href='https://wcsng.ucsd.edu/dloc/'>[DLoc-Mobicom'20]</a> [ICCASP'21]
-- Backscatter Communication:  <a href='https://dl.acm.org/doi/10.1145/2785956.2787490'>[BackFi-Sigcomm'15]</a> <a href='https://dl.acm.org/doi/10.1145/2994551.2994565'>[HitchHike-Sensys'16]</a> <a href='https://dl.acm.org/doi/10.1145/3143361.3143374'>[FreeRider-CoNext'17]</a>    <a href='https://wcsng.ucsd.edu/ubiquitousIoT/'>[ISSCC'20]</a>  [JSSC'20] [ISSCC'21] [SyncScatter-NSDI'21] [RForce-NSDI'21]
-- Wireless Sensing: <a href = 'http://sensys.acm.org/2020/program/'>[DroneScale-Sensys'20]</a>
-- Cloud and Edge Computing: [Numfabric-Sigcomm'16] [ISER'20]
-- mmWave 5G NR: <a href='https://wcsng.ucsd.edu/mmobile/'>[mMobile-mmNets'20]</a>
-- Smart Surfaces: <a href='https://wcsng.ucsd.edu/scattermimo/'>[ScatterMIMO - Mobicom'20]</a>
-- Autonomous Sensing and Perception: <a href='https://wcsng.ucsd.edu/pointillism/'>[Pointilism-Sensys'20]</a>
-- Robotics and Machine Learning: <a href='https://arxiv.org/pdf/2007.14511.pdf'>[S3Net-ECCV'20]</a> <a href='https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html'>[SigNet-CVPR'19]</a>
-- Spectrum Sensing: <a href='https://wcsng.ucsd.edu/sparsdr/'>[SparSDR-Mobisys'19]</a> <a href='https://github.com/ucsdsysnet/SweepSense/tree/master'>[SweepSense-NSDI'19]</a> [GetMobile'20]
-- Wireless Power Transfer: <a href='https://dl.acm.org/doi/10.1145/3307334.3326077'>[Capttery-Mobisys'19]</a>
-- Full Duplex radios:  <a href='https://dl.acm.org/doi/10.1145/2486001.2486033'>[Sigcomm'13]</a> [NSDI'14][Sigcomm'14][Sigcomm'15] [Sigcomm'16]
-- AR and VR: [HotNets'16] <a href='https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari'>[MoVR-NSDI'17] </a>
 
 Selected Press and Media Coverage 
 -----
