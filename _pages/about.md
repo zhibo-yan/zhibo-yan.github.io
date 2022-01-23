@@ -25,37 +25,50 @@ Projects
 
 
 - Sensing and Localization using wireless and sound signals for robotics, everyday devices, users and many-more applications.
-  + [Indoor Localization](https://wcsng.ucsd.edu/localization.html): Developing privacy preserving self-localization for users, user devices, robots and even smart sound devices. Specific works as [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [Passive Human motion sensing using WiFi](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi), [SSLIDE -- Deep Learning based Localization of Sound devices](./files/papers/sslide.pdf), [Spotfi -- Localization with COTS WiFi AP](./files/papers/SpotFi.pdf).
-  + Low-power and Low Latency Localization -- Next generation Localization would enable safety for Industrial IoT 4.0 with Smart Manufacturing, Warehouse and Private 5G. Some of work along this dimension: [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [ULoc -- Low Latency and Low power localization protocol for UWB](https://wcsng.ucsd.edu/uloc)
-  + Deploy-able Wireless Localization: Wireless Localization, specifically WiFi/BLE leveraging existing infrastructure has been studied for two decades without any deployments. We have developed robots that enable simultaneous mapping and localization systems enabling easy to deploy systems. Some publications [LocAP-NSDI'20](https://wcsng.ucsd.edu/locap/), [DLoc-Mobicom'20](https://wcsng.ucsd.edu/dloc), [SpotFi-Sigcomm'15](http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf) and [BLoc-CoNEXT’18](https://wcsng.ucsd.edu/bloc/). 
-  + Securing our physical spaces: With ever evolving mini-drones and delivery drones, it is eminent to learn of devices in our environment. Some work on this axis has been outdoor sensing of drones and payload: [Wireless Sensing of Drones and payload](./files/papers/sensys20-)
+  + [Indoor Localization](https://wcsng.ucsd.edu/localization.html): Developing privacy preserving self-localization for users, user devices, robots and even smart sound devices. 
+    * Publications: [BLoc -- CoNExT'18](https://wcsng.ucsd.edu/bloc/), [Wideo -- NSDI'15](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi), [SSLIDE -- ICCASP'21](./files/papers/sslide.pdf), [SpotFi -- Sigcomm'15](./files/papers/SpotFi.pdf).
+  + Low-power and Low Latency Localization -- Next generation Localization would enable safety for Industrial IoT 4.0 with Smart Manufacturing, Warehouse and Private 5G. 
+    * Publications:  [ULoc -- Ubicomp'21](https://wcsng.ucsd.edu/uloc), [BLoc -- CoNExt'18](https://wcsng.ucsd.edu/bloc/).
+  + Deployable Wireless Localization: Wireless Localization, specifically WiFi/BLE leveraging existing infrastructure has been studied for two decades without any deployments. We have developed autonomous robots that enable simultaneous mapping of environment and infrastructure and deep-learning powered localization systems, enabling easy to deploy location services. 
+    * Publications: [LocAP-NSDI'20](https://wcsng.ucsd.edu/locap/), [DLoc-Mobicom'20](https://wcsng.ucsd.edu/dloc), [SpotFi-Sigcomm'15](http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf) and [BLoc-CoNEXT’18](https://wcsng.ucsd.edu/bloc/). 
 
-- Communication and power delivery for IoT devices 
-  + [Ultra-Low power WiFi communication for IoTs](https://wcsng.ucsd.edu/ubiquitousIoT/): Enabling IoT devices to communicate with existing WiFi/BLE infrastructure at >1000x lower power. [BackFi-Sigcomm'15](https://dl.acm.org/doi/10.1145/2785956.2787490), [HitchHike-Sensys'16](https://dl.acm.org/doi/10.1145/2994551.2994565), [FreeRider-CoNext'17](https://dl.acm.org/doi/10.1145/3143361.3143374),[ISSCC'20], [JSSC'20], [ISSCC'21] and [SyncScatter-NSDI'21] [ISSCC'22].
-  + Wireless Power Transfer: On the other hand, we are developing solutions to provide wireless power of milli-watts of power sufficient to power-up WiFi and BLE directly. [Capttery-Mobisys'19](https://dl.acm.org/doi/10.1145/3307334.3326077)
+- Communication and power delivery for IoT and everyday devices 
+  + [Ultra-Low power WiFi communication for IoTs](https://wcsng.ucsd.edu/ubiquitousIoT/): Enabling IoT devices to communicate with existing WiFi/BLE infrastructure at >1000x lower power. 
+    * Publications:  [ISSCC'22], [SyncScatter-NSDI'21], [ISSCC'21] and [ISSCC'20], [JSSC'20], [BackFi-Sigcomm'15](https://dl.acm.org/doi/10.1145/2785956.2787490), [HitchHike-Sensys'16](https://dl.acm.org/doi/10.1145/2994551.2994565), [FreeRider-CoNext'17](https://dl.acm.org/doi/10.1145/3143361.3143374).
+  + Wireless Power Transfer: On the other hand, we are developing solutions to provide wireless power of milli-watts of power sufficient to power-up WiFi and BLE directly. 
+    * Publication: [Capttery-Mobisys'19](https://dl.acm.org/doi/10.1145/3307334.3326077)
 
 - Extending the Sensing abilities of Wireless
-  + []
+  + Force Sensing: 
+  + Securing our physical spaces: With ever evolving mini-drones and delivery drones, it is eminent to learn of devices in our environment and vice-versa for the Amazon's of the world to perform remote secure delivery. 
+    * Publications: [Drone-scale Sensys'20](./files/papers/sensys20-dronescale.pdf)
 
 - Spectrum Sensing and Wireless sensing driven communication: 
-  + Sweep-Sensing 5 GHz in a milli-second: Sensing the entire spectrum with high-resolution and dynamic range in time, frequency and space (wide-area) in cost efficient is need of the day and near-impossible. Such sensing would enable highly efficient communication, securing our communications and preserving our privacy. [SweepSense-NSDI'19](https://github.com/ucsdsysnet/SweepSense/tree/master) and [GetMobile'20]
-  + Shipping the sensed spectrum data: Accurate spectrum sensing  with just a single sensor generates 800 Mbps, which cannot be shipped in real-time. Enabling >1000x compression and shipping only necessary information: [SparSDR-Mobisys'19](https://wcsng.ucsd.edu/sparsdr/) 
-  + Application of sensing -- privacy attacks:  
+  + Sweep-Sensing 5 GHz in a milli-second: Sensing the entire spectrum with high-resolution and dynamic range in time, frequency and space (wide-area) in cost efficient is need of the day and near-impossible. Such sensing would enable highly efficient communication, securing our communications and preserving our privacy. 
+    * Publications:[SweepSense-NSDI'19](https://github.com/ucsdsysnet/SweepSense/tree/master) and [GetMobile'20]
+  + Shipping the sensed spectrum data: Accurate spectrum sensing  with just a single sensor generates 800 Mbps, which cannot be shipped in real-time. Enabling >1000x compression and shipping only necessary information.
+    * Publications: [SparSDR-Mobisys'19](https://wcsng.ucsd.edu/sparsdr/) 
+  + Application of sensing -- privacy attacks: All our user devices has bluetooth enabling advertisement, proximity and continuity protocols. Our work shows this comes at the expense of users privacy, requires hardware re-design. 
+    * Publications: [BLE-Attack -- IEEE Security and Privacy'22](https://wcsng.ucsd.edu/privacy)
 
 - Autonomous Sensing and Perception: 
   + Perception in bad-weather: Radar based [Pointilism-Sensys'20](https://wcsng.ucsd.edu/pointillism/)
   + Enabling Cameras to perceive the depth: [S3Net-ECCV'20](https://arxiv.org/pdf/2007.14511.pdf), [SigNet-CVPR'19](https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html) 
 
-- Cloud and Edge Computing: 
-  + [Numfabric-Sigcomm'16] 
-  + [ISER'20]
-
-- Reliable xG communications: mmwave and beyond
-  + AR and VR: [HotNets'16](), [MoVR-NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari)
+- Reliable xG communications: mm-wave and beyond
+  + Traditional mm-wave connectivity is unreliable at best (providing connectivity .5\% of times), due to directional nature of these links. Our work attempts to invalidate this premise, by creating multi-beam, providing both high throughput and reliability. 
+    * mmreliable , mmobile 
+  + Indoor mm-wave connectivity in indoor suffers from unrealible communications. We developed relaying based un-thered indoor connectivity showing AR and VR usecase. 
+    * Publications:  [HotNets'16](), [MoVR-NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari)
 
 - Communication and Sensing with Smart Surfaces:  
   + Smart Surfaces: [ScatterMIMO - Mobicom'20](https://wcsng.ucsd.edu/scattermimo/) 
-  + 
+  
+<!-- 
+- Cloud and Edge Computing: 
+  + [Numfabric-Sigcomm'16] 
+  + [ISER'20]
+ -->
 
 - Radio- Interferometry: 
   + Full Duplex radios: [Sigcomm'13](https://dl.acm.org/doi/10.1145/2486001.2486033), [NSDI'14](), [Sigcomm'14](), [Sigcomm'15](), [Sigcomm'16]()

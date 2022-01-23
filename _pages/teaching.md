@@ -11,16 +11,14 @@ Besides content, I have found my passion and energy for the class material and c
 
 ## University of California San Diego
 
-- ECE 157A – Wireless Communications Laboratory -- offered every year
-    + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE157A)
-- ECE 157B – Wireless Sensing Laboratory  (Fall 2019)
+- ECE 157B – Wireless Sensing Laboratory  (Spring'19 and 20)
     + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE157B)
-- ECE 257B – Principles of Wireless Communication -- offered every year
+- ECE 257B – Principles of Wireless Communication -- (Spring'18, Winter'19, 20 and 21) 
     + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE257B)
-- ECE 101 – Linear Systems Fundamental (Spring 2021)
-    + [Canvas](https://web.eng.ucsd.edu/~dineshb/ECE157A)
-    + [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
+- ECE 101 – Linear Systems Fundamental -- (Spring'21) 
+    + Canvas 
+- ECE 157A – Wireless Communications Laboratory -- (Winter'21)
+    + Piazza 
 
 
 ## MIT
