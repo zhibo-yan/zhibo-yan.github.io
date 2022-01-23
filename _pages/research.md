@@ -7,27 +7,10 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My research has been focused on building efficient, performant systems for sensing, computing, communicating and securing the information in our connected world. Throughout my career, my research has aimed to solve the fundamental and near-impossible problems, which has often led to new areas of research and commercialization solutions. My approach to research is as follows: I identify core challenges with building next-generation technologies, form those as research topics and solve those with creativity and analytical understanding of the problem and go at length to solve them, including building integrated circuits or building robots, end-to-end systems. My research group [WCSNG Group](https://wcsng.ucsd.edu/) continues to work with same philosophy of solving fundamental problems, impacting areas of from IoT to robotics, to mobile sensing, mobile computing to every-day life. Specifically, my research agenda is focused on building systems in the broad areas of vision/perception systems, sensing systems, wireless communications, wireless networking. As such, my work has inspired significant follow-up work on almost all of the topics I have worked on. 
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+I have worked and introduced a range of research areas and topics from communications, sensing, computing, and networking. My research career began by solving an open problem on enabling full-duplex radios in wireless communication. Specifically, It is, rather, it was well known that full-duplex radios are near impossible to achieve, with multiple wireless textbooks claiming it. This work inspired my research philosophy as well to a large extent to focus on identifying the fundamental problem on different topics and solving those problems, which inadvertently leads to significant impact and evolves new research areas to work on. My group has worked on the following topics following my research philosophy: sensing of radios in environments (radars, wireless localization, WiFi-SLAM), Wireless Sensing Driven Communication and Cloud RAN, Wireless Sensing for autonomous systems, Smart Surfaces based wireless networking and computing, Scalable and Ultra-low-power WiFi connectivity for IoT, Optimized Edge Node Compute, Full-duplex radios for networking and sensing, mm-accurate wireless sensing and localization, building scalable and reliable 5G mm-wave and autonomous perception systems using cameras and radars. 
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
 
 <nbsp>
 

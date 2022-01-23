@@ -1,13 +1,22 @@
 ---
-title: "Social media data"
+title: "Networking and Computing with Smart Surfaces"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
-order_number: 40
+order_number: 50
 header: 
   og_image: "research/ternary.png"
 ---
 
+Smart Surfaces based wireless networking and computing (ScatterMIMO) 
+
+Increasingly wireless networks are densifying and distributing themselves with different technologies, with the key bottleneck as the deployment of access points/base-station. For example, to mmwave 5G will require 100x more base-station (gNB) deployment to achieve similar coverage to its sub-6 GHz counterpart owing to significantly higher penetration loss at mmwave. To make matters worse, each base station/access point deployment requires a fiber optical backhaul, which doesn't exist today, making it near-impossible and cost-prohibitive.  
+
+My team has introduced new passive smart surfaces that can compute and shape the ambient wireless signals to overcome this challenge. Specifically, we built ScatterMIMO, a smart surface using tiny antennae to reflect signals back like a typical backscatter. My work shows that if you combine them, they could be as powerful as an access point in terms of reflected power [Fig. 5, IV.A.18]. Furthermore, the exciting part is that it requires smart placement of smart surface and requires only 50 tiny antennas to re-radiate the same power as an AP. My work shows for the first time a smart surface can create distributed MIMO – which typically requires another WiFi access points with synchronization, active power and knowledge of data upfront – all of these are provided by the power of backscattering and low-complexity channel estimation and smart surface optimization – solving the fundamental problem with smart surfaces. Our work has shown that they can double the data-rate of communication by adding new MIMO spatial multiplexing that also reduces unwanted interference and works with COTS WiFi without requiring any protocol change, and costs just 5 dollars. 
+
+The paper creates a new direction in creating simple, smart surfaces that are scalable and improve the performance of a variety of applications, from wireless communication to building wireless sensing. It was covered in the news and media. In the next few years, we plan to build surfaces that can shape and compute on existing wireless signals to reduce and manage cross-technology interference while improving the data rate. Furthermore, we plan to scale the smart surfaces to get inputs from users, interact with users by touch or gestures in the air, all detected via the existing connectivity eco-system.
+
+<!-- 
 In these projects I leverage social media data to study the early stages of
 radicalization and participation in extremist movements. In one, I use geocoded
 videos uploads to explore the relationship between American military fatalities
@@ -32,3 +41,4 @@ Rob Williams. "Mapping Extremist Networks with Visual Imagery." Presented at the
 > Identifying networks of cooperation and conflict between actors in broader social movements can be a challenging task even when data are easily obtainable. When actors are involved in socially marginal movements such as extremist groups, this task becomes even more difficult due to the high degree of secrecy that surrounds communication and interaction between members. However, extremist groups such as terrorist groups often release extensive amounts of propaganda material, including video, magazines, and social media content. I focus on video propaganda and use computer vision techniques to identify points of interest within video frames and extract quantitative descriptions of them. I then find unsupervised clusters of these image fragment that I hand label e.g. guns, faces, banners, etc. I assign each point of interest in a frame to its appropriate category, and then generate counts of each category's frequency within each video. I then rely on unsupervised clustering methods to detect groups of videos that use similar visual imagery. Extremist group propaganda materials represent an untapped potential source of information about patterns of allegiance within the broader movement as groups that are aligned with one another are likely to produce material sharing many of the same images, terms, and themes. I evaluate this method on a sample of propaganda videos produced by groups within the Salafi Jihadi movement and compare this video-derived measure of group relationships with existing qualitative work mapping these connections to validate my findings. This computer vision approach will allow researchers to identify individual terrorist groups within broader movements when the extensive information on group interactions required for traditional network analysis is unavailable.
 
 [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research}
+ -->

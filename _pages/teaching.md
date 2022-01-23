@@ -3,38 +3,31 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+My teaching follows my research philosophy of enabling the students to challenge existing knowledge and learn via challenging it, combined with hands-on experience. I believe that students retain most of the class material if combined with appropriate hands-on experience and impact of what they can achieve by learning this class. Adding all these components to class requires an extensive effort, and more so during COVID, to enable students to have remote access seamless and not be overburdened due to hardware aspects. 
+
+Besides content, I have found my passion and energy for the class material and connecting with applied aspects of the class inspires students to achieve endeavors and pursue higher studies, internship, and exploring the topic further on their own extensively. Furthermore, I conduct comprehensive exams (up to 24-hour exams to not put them under time pressure and give them a chance to be represent what they learned) to test both theory and applied knowledge; the goal is to verify if students have an intuition for the class. Such teaching philosophy has resulted in confidence in the students when they start their position in the industry; sometimes, I have received queries years after requesting access to the class material to prepare for interviews from my former students. 
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## University of California San Diego
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+- ECE 157A – Wireless Communications Laboratory -- offered every year
+    + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE157A)
+- ECE 157B – Wireless Sensing Laboratory  (Fall 2019)
+    + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE157B)
+- ECE 257B – Principles of Wireless Communication -- offered every year
+    + [Webpage](https://web.eng.ucsd.edu/~dineshb/ECE257B)
+- ECE 101 – Linear Systems Fundamental (Spring 2021)
+    + [Canvas](https://web.eng.ucsd.edu/~dineshb/ECE157A)
+    + [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+
+
+## MIT
+- 6.888: Wireless Communication Systems
+    +  Class on full-duplex radios
+
+## Stanford
+- EE107: Embedded Networked Systems (Spring 2015)
+    + Teaching Assistant 
+    - [Webpage](https://web.stanford.edu/class/ee107/)
