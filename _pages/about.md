@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor in ECE department with affiliate appointment with CSE department at UC San Diego. I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing and Networking Group at UC San Diego. 
+I am an Assistant Professor in the ECE department with an affiliate appointment with the CSE department at UC San Diego. I lead [WCSNG](https://wcsng.ucsd.edu) Wireless Communication, Sensing, and Networking Group at UC San Diego.
 
-My research vision is to design and prototype performant systems for sensing, computing, communicating and securing the information in our connected world. Throughout my career, my research has aimed to solve the fundamental and near-impossible problems, which has often lead to new areas of research and commercialization. My research group continues to work on same philosophy of solving fundamental problems, impacting areas of next generation communication, robotics, autonomous systems to every-day life [WCSNG](https://wcsng.ucsd.edu). 
-
+My research vision is to design and prototype performant systems for sensing, computing, communicating, and securing information in our connected world. My research has aimed to solve fundamental and near-impossible problems throughout my career, which has often led to new areas of research and commercialization. My research group continues to work on the same philosophy of solving fundamental problems, impacting next-generation communication, robotics, and autonomous systems to everyday life ([WCSNG](https://wcsng.ucsd.edu)).
 
 Apply to WCSNG Group 
 -----
 
-My group is highly inter-disciplinary spanning electrical engineers, data scientists, computer scientists and mechanical engineers and works at the intersection of signal processing, circuits, computer vision, machine learning and aritifical intelligence. We develop theory and algorithms with special focus on implementation and protyping of solutions in our impact areas. Our current impact areas include: wireless localization, sensing for autonomous driving, sensing for healthcare, spectrum sensing for next-generation networks, and wireless systems for VR/AR applications and created various open source datasets and tools that enables reproducible reserach and eases barrier to entry to the reserachers in communication and sensing. 
+My group is highly interdisciplinary, spanning electrical engineers, data scientists, computer scientists, and mechanical engineers, and works at the intersection of signal processing, circuits, computer vision, machine learning, and artificial intelligence. We develop theory and algorithms with their implementation and prototypes in our impact areas. 
+Our impact areas are in the broad areas of vision/perception systems, sensing systems, wireless communications, wireless networking.
+My group has curated and created various open-source datasets and tools that enable reproducible research and eases barriers to entry to researchers in communication and sensing. 
 
 If you are a potential student, researcher or postdoc and interested in working with me or [my group](https://wcsng.ucsd.edu/publications), drop me an email (`dineshb at ucsd dot edu`) and/or reach out to the PhD students or postdocs. 
 
@@ -23,36 +24,41 @@ Projects
 ----- 
 
 
-- Sensing using wireless, sound and cameras for Robotics, IoT and many-more applications
-  + [Indoor Localization](https://wcsng.ucsd.edu/localization.html): Developing localization algorithms for user devices, robots and even smart sound devices. Specific works as [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [Passive Human motion sensing using WiFi](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi), [SSLIDE -- Deep Learning based Localization of Sound devices](./files/papers/sslide.pdf), [Spotfi -- Localization with COTS WiFi AP](./files/papers/SpotFi.pdf).
+- Sensing and Localization using wireless and sound signals for robotics, everyday devices, users and many-more applications.
+  + [Indoor Localization](https://wcsng.ucsd.edu/localization.html): Developing privacy preserving self-localization for users, user devices, robots and even smart sound devices. Specific works as [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [Passive Human motion sensing using WiFi](https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/joshi), [SSLIDE -- Deep Learning based Localization of Sound devices](./files/papers/sslide.pdf), [Spotfi -- Localization with COTS WiFi AP](./files/papers/SpotFi.pdf).
   + Low-power and Low Latency Localization -- Next generation Localization would enable safety for Industrial IoT 4.0 with Smart Manufacturing, Warehouse and Private 5G. Some of work along this dimension: [BLoc -- Localization of BLE devices](https://wcsng.ucsd.edu/bloc/), [ULoc -- Low Latency and Low power localization protocol for UWB](https://wcsng.ucsd.edu/uloc)
-  + Deployable Wireless Localization: Wireless Localization, specifically WiFi/BLE leveraging existing infrastrcture has been studied for two decades without any deployments. We have developed robots that enable encombined mapping and localization systems enabling easy to deploy systems. Some publications [LocAP-NSDI'20](https://wcsng.ucsd.edu/locap/), [DLoc-Mobicom'20](https://wcsng.ucsd.edu/dloc), [Spotfi-Sigcomm'15](http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf) and [BLoc-CoNEXT’18](https://wcsng.ucsd.edu/bloc/). 
-  + Securing our physical spaces: With ever evolving mini-drones and delivery drones, it is eminent to learn of devices in our envrionment. Some work on this axis has been outdoor sensing of drones and payload: [Wireless Sensing of Drones and payload](./files/papers/sensys20-)
+  + Deploy-able Wireless Localization: Wireless Localization, specifically WiFi/BLE leveraging existing infrastructure has been studied for two decades without any deployments. We have developed robots that enable simultaneous mapping and localization systems enabling easy to deploy systems. Some publications [LocAP-NSDI'20](https://wcsng.ucsd.edu/locap/), [DLoc-Mobicom'20](https://wcsng.ucsd.edu/dloc), [SpotFi-Sigcomm'15](http://wcsng.ucsd.edu/files/sigcomm15-spotfi.pdf) and [BLoc-CoNEXT’18](https://wcsng.ucsd.edu/bloc/). 
+  + Securing our physical spaces: With ever evolving mini-drones and delivery drones, it is eminent to learn of devices in our environment. Some work on this axis has been outdoor sensing of drones and payload: [Wireless Sensing of Drones and payload](./files/papers/sensys20-)
 
-- Communication and power delivery for next-generation devices 
-  + [Ultra-Low power WiFi communication for IoTs](https://wcsng.ucsd.edu/ubiquitousIoT/): Enabling IoT devices to communicate with existing WiFi/BLE infrastrcture at 1000x lower power. [BackFi-Sigcomm'15](https://dl.acm.org/doi/10.1145/2785956.2787490), [HitchHike-Sensys'16](https://dl.acm.org/doi/10.1145/2994551.2994565), [FreeRider-CoNext'17](https://dl.acm.org/doi/10.1145/3143361.3143374),[ISSCC'20], [JSSC'20], [ISSCC'21] and [SyncScatter-NSDI'21] [ISSCC'22]  
-  + xG mmwave and beyond:
-  + Smart Surfaces: [ScatterMIMO - Mobicom'20](https://wcsng.ucsd.edu/scattermimo/)
-  + Wireless Power Transfer: [Capttery-Mobisys'19](https://dl.acm.org/doi/10.1145/3307334.3326077)
+- Communication and power delivery for IoT devices 
+  + [Ultra-Low power WiFi communication for IoTs](https://wcsng.ucsd.edu/ubiquitousIoT/): Enabling IoT devices to communicate with existing WiFi/BLE infrastructure at >1000x lower power. [BackFi-Sigcomm'15](https://dl.acm.org/doi/10.1145/2785956.2787490), [HitchHike-Sensys'16](https://dl.acm.org/doi/10.1145/2994551.2994565), [FreeRider-CoNext'17](https://dl.acm.org/doi/10.1145/3143361.3143374),[ISSCC'20], [JSSC'20], [ISSCC'21] and [SyncScatter-NSDI'21] [ISSCC'22].
+  + Wireless Power Transfer: On the other hand, we are developing solutions to provide wireless power of milli-watts of power sufficient to power-up WiFi and BLE directly. [Capttery-Mobisys'19](https://dl.acm.org/doi/10.1145/3307334.3326077)
 
-- Extending the Sensing abilities of Wireless: 
-  + Spectrum Sensing: [SparSDR-Mobisys'19](https://wcsng.ucsd.edu/sparsdr/), [SweepSense-NSDI'19](https://github.com/ucsdsysnet/SweepSense/tree/master) and [GetMobile'20]
-  + 
+- Extending the Sensing abilities of Wireless
+  + []
+
+- Spectrum Sensing and Wireless sensing driven communication: 
+  + Sweep-Sensing 5 GHz in a milli-second: Sensing the entire spectrum with high-resolution and dynamic range in time, frequency and space (wide-area) in cost efficient is need of the day and near-impossible. Such sensing would enable highly efficient communication, securing our communications and preserving our privacy. [SweepSense-NSDI'19](https://github.com/ucsdsysnet/SweepSense/tree/master) and [GetMobile'20]
+  + Shipping the sensed spectrum data: Accurate spectrum sensing  with just a single sensor generates 800 Mbps, which cannot be shipped in real-time. Enabling >1000x compression and shipping only necessary information: [SparSDR-Mobisys'19](https://wcsng.ucsd.edu/sparsdr/) 
+  + Application of sensing -- privacy attacks:  
 
 - Autonomous Sensing and Perception: 
-  + Perception in bad-weather: Radar based <a href='https://wcsng.ucsd.edu/pointillism/'>[Pointilism-Sensys'20]</a>
-  + Enabling Cameras to perceive the depth: 
-
-- Robotics and Machine Learning: 
-  + [S3Net-ECCV'20](https://arxiv.org/pdf/2007.14511.pdf), [SigNet-CVPR'19](https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html) 
+  + Perception in bad-weather: Radar based [Pointilism-Sensys'20](https://wcsng.ucsd.edu/pointillism/)
+  + Enabling Cameras to perceive the depth: [S3Net-ECCV'20](https://arxiv.org/pdf/2007.14511.pdf), [SigNet-CVPR'19](https://openaccess.thecvf.com/content_CVPR_2019/html/Meng_SIGNet_Semantic_Instance_Aided_Unsupervised_3D_Geometry_Perception_CVPR_2019_paper.html) 
 
 - Cloud and Edge Computing: 
   + [Numfabric-Sigcomm'16] 
   + [ISER'20]
- 
 
-- Full Duplex radios: [Sigcomm'13](https://dl.acm.org/doi/10.1145/2486001.2486033), [NSDI'14](), [Sigcomm'14](), [Sigcomm'15](), [Sigcomm'16]()
-- AR and VR: [HotNets'16](), [MoVR-NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari)
+- Reliable xG communications: mmwave and beyond
+  + AR and VR: [HotNets'16](), [MoVR-NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/abari)
+
+- Communication and Sensing with Smart Surfaces:  
+  + Smart Surfaces: [ScatterMIMO - Mobicom'20](https://wcsng.ucsd.edu/scattermimo/) 
+  + 
+
+- Radio- Interferometry: 
+  + Full Duplex radios: [Sigcomm'13](https://dl.acm.org/doi/10.1145/2486001.2486033), [NSDI'14](), [Sigcomm'14](), [Sigcomm'15](), [Sigcomm'16]()
 
 A more detailed list of projects and on-going research can be found at [WCSNG publications](https://wcsng.ucsd.edu/publications).
 

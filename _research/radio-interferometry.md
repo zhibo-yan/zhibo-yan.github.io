@@ -22,6 +22,8 @@ The fact is that my work inspired full-duplex radios research in the integrated 
 
 The full-duplex work not only impacted the academic world but also led to commercial success. Full-duplex was considered a near impossibility that ability to achieve it inspired the entire industry to support it for a commercial product; to some extent, the belief was it doesn’t work as claimed. It led to the foundation for a startup Kumu Networks, which has raised $55 million till-date. Based on my work on full-duplex radios, Kumu Networks has successfully raised extensive capital and demonstrated field-tested solutions for full-duplex radios. I led the product development of full-duplex radios at Kumu Networks, which was field-tested by Tier-1 networks. In a matter of six years, it went from impossible to feasible to an actual product!
 
+[Article](https://doi.org/10.1177/07388942211015242){: .btn--research}
+
 <!-- 
 
 ## Article
