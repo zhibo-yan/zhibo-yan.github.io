@@ -12,5 +12,5 @@ I received my B.S. and Ph.D degrees both form Nanjing University in 2017 and 202
 
 Publications
 -----
-Z Yan, JA Fraire, K Zhao, H Yan, PG Madoery, W Li, H Yang. [Distributed contact plan design for GNSSs](https://ieeexplore.ieee.org/abstract/document/8718362). IEEE Transactions on Aerospace and Electronic Systems, 2022. 
+Z Yan, JA Fraire, K Zhao, H Yan, PG Madoery, W Li, H Yang. [Distributed contact plan design for GNSSs](https://ieeexplore.ieee.org/abstract/document/8718362). IEEE Transactions on Aerospace and Electronic Systems, 2019. 
 
