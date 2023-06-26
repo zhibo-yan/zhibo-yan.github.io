@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently working on Data center networking at Network Technology Laboratory, Huawei.
-I received my BS and PhD degrees both from Nanjing University in 2017 and 2022. After graduation, I joined Huawei as a senior engineer. 
+I received the Bachelor's in Communication Enginnering and the Ph.D. degree in Information and Communication Engineering, both from Nanjing University in 2017 and 2022. After graduation, I joined Huawei as a senior engineer. 
 
 Publications
 -----
